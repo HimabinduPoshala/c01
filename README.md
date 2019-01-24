@@ -10,3 +10,4 @@ Enter Name,Ordername,Address,Ordernumber,Extradrinks.
 
 Give rating after the ordering.
 
+![Screenshot](https://github.com/HimabinduPoshala/c01/blob/master/Screenshot.png)
